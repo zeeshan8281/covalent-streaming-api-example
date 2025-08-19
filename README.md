@@ -5,3 +5,5 @@ The technology stack features a Node.js and Express backend hosted on Railway th
 To get started locally, you can clone the repository, install the dependencies, and configure your Covalent API key in a .env file before starting the server and opening the index.html file. The dashboard works by listening for Transfer and Swap events to identify whale activity and calculate buy/sell pressure, with future development planned for multi-chain support and historical price charts. 
 
 The project is licensed under the MIT License and is open to contributions.
+
+<img width="3840" height="506" alt="Untitled diagram _ Mermaid Chart-2025-08-19-201203" src="https://github.com/user-attachments/assets/e89775f6-4736-4fac-b892-362e9218b067" />
