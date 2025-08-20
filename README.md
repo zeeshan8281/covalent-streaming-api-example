@@ -7,3 +7,5 @@ To get started locally, you can clone the repository, install the dependencies, 
 The project is licensed under the MIT License and is open to contributions.
 
 <img width="3840" height="506" alt="Untitled diagram _ Mermaid Chart-2025-08-19-201203" src="https://github.com/user-attachments/assets/e89775f6-4736-4fac-b892-362e9218b067" />
+
+The project is live at https://memecoin-dashboard-flax.vercel.app/
